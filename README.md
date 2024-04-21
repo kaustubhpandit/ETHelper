@@ -1,5 +1,9 @@
-![ET Helper Logo]([page_icon.png](https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png))
-# ET Helper
+<p align="left">
+  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="60" height="60" alt="ET Helper Logo" style="float:left; margin-right:10px;" />
+  <h1 style="padding-top:15px;">ET Helper</h1>
+</p>
+
+
 
 ET Helper is a Streamlit-based web application designed to facilitate the interactive querying of text extracted from PDF files. It leverages advanced NLP models from OpenAI, embedded via the LangChain library, to provide a conversational interface where users can upload PDFs and ask questions directly related to the content.
 
