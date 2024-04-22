@@ -26,7 +26,7 @@ Follow these steps to get ET Helper up and running on your local machine:
 
 Clone the ET Helper repository to your local machine using the following command:
 ```bash
-git clone [https://github.com/kaustubhpandit/ETHelpery]()
+git clone [https://github.com/kaustubhpandit/ETHelpery]
 ```
 
 ### 2. Install required dependencies
