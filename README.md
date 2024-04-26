@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="120" height="120" alt="Scientific Text Mining Logo" style="float:left; margin-right:10px;" />
+  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="120" height="120" border-radius="25" alt="Scientific Text Mining Logo" style="float:left; margin-right:10px;" />
   <h1 style="padding-top:15px;">Scientific Text Mining</h1>
 </p>
 
