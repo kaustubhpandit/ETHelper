@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="60" height="60" alt="ET Helper Logo" style="float:left; margin-right:10px;" />
+  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="120" height="120" alt="ET Helper Logo" style="float:left; margin-right:10px;" />
   <h1 style="padding-top:15px;">ET Helper</h1>
 </p>
 
