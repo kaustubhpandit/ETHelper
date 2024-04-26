@@ -65,6 +65,6 @@ Once the application is running, you'll see an option to upload PDF files. Use t
 After uploading the documents, you can type your questions in the chat interface provided. The system will process your query against the content of the uploaded PDFs and return relevant responses.
 
 ## Contributing
-Contributions to Scintific Text Mining are welcome! Please feel free to fork the repository, make changes, and submit pull requests. You can also open issues if you find bugs or have suggestions for improvements.
+Contributions to Scientific Text Mining are welcome! Please feel free to fork the repository, make changes, and submit pull requests. You can also open issues if you find bugs or have suggestions for improvements.
 
 
