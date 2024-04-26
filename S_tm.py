@@ -29,7 +29,7 @@ user_avatar_base64 = encode_image_to_base64(user_avatar_path)
 app_icon_base64 = encode_image_to_base64(app_icon_path)
 
 # Configure Streamlit page settings
-st.set_page_config(page_title="ET Helper", page_icon=f"data:image/png;base64,{app_icon_base64}", layout="wide")
+st.set_page_config(page_title="Scientific Text Mining", page_icon=f"data:image/png;base64,{app_icon_base64}", layout="wide")
 
 # Function to read and concatenate text from PDF files
 def extract_text_from_pdfs(pdf_list):
@@ -141,7 +141,7 @@ with st.container():
     }
     </style>
     """, unsafe_allow_html=True)
-    st.markdown(f'<h1 style="display: inline-block; vertical-align: middle;"><img src="data:image/png;base64,{app_icon_base64}" style="width: 100px; height: 100px; margin-right: 10px; vertical-align: middle;">ET Helper</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="display: inline-block; vertical-align: middle;"><img src="data:image/png;base64,{app_icon_base64}" style="width: 200px; height: 200px; border-radius: 25px; margin-right: 10px; vertical-align: middle;"> Scientific Text Mining</h1>', unsafe_allow_html=True)
     st.write("Developed By Kaustubh Pandit")
 
 with st.container():
