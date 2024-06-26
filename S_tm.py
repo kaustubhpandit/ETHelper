@@ -142,7 +142,7 @@ with st.container():
     </style>
     """, unsafe_allow_html=True)
     st.markdown(f'<h1 style="display: inline-block; vertical-align: middle;"><img src="data:image/png;base64,{app_icon_base64}" style="width: 200px; height: 200px; border-radius: 25px; margin-right: 10px; vertical-align: middle;"> Scientific Text Mining</h1>', unsafe_allow_html=True)
-    st.write("Developed By Kaustubh Pandit")
+    
 
 with st.container():
     col2, col1 = st.columns([1.2, 5])
