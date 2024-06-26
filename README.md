@@ -1,11 +1,13 @@
 <p align="left">
-  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page_icon.png" width="120" height="120" border-radius="25" alt="Scientific Text Mining Logo" style="float:left; margin-right:10px;" />
+  <img src="https://github.com/kaustubhpandit/ETHelper/blob/main/images/page.png" width="120" height="120" border-radius="25" alt="Scientific Text Mining Logo" style="float:left; margin-right:10px;" />
   <h1 style="padding-top:15px;">Scientific Text Mining</h1>
 </p>
 
 
 
 Scientific Text Mining is a Streamlit-based web application designed to facilitate the interactive querying of text extracted from PDF files. It leverages advanced NLP models from OpenAI, embedded via the LangChain library, to provide a conversational interface where users can upload PDFs and ask questions directly related to the content.
+
+## Authors
 
 ## Features
 
