@@ -9,6 +9,20 @@ Scientific Text Mining is a Streamlit-based web application designed to facilita
 
 ## Authors
 
+- **Kaustubh R. Pandit**  
+  *University of Oklahoma*  
+  [kaustubh.pandit@ou.edu](mailto:kaustubh.pandit@ou.edu)
+
+- **Aditya Kasturi**  
+  *University of Oklahoma*  
+  [adityakasturi@ou.edu](mailto:adityakasturi@ou.edu)
+
+- **Dr. Jude K. Okolie**  
+  *University of Oklahoma*  
+  [jude.okolie@ou.edu](mailto:jude.okolie@ou.edu)
+
+  
+  
 ## Features
 
 - PDF text extraction using PyPDF2.
